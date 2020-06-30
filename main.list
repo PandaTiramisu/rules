@@ -47,7 +47,7 @@ HOST-KEYWORD,beplay,Mainland
 
 # > Blizzard
 USER-AGENT,hearthstone*,Mainland
-HOST,cdp.cloud.unity3d.com,Mainland
+#HOST,cdp.cloud.unity3d.com,Mainland
 HOST-SUFFIX,battle.net,Mainland
 HOST-SUFFIX,battlenet.com,Mainland
 HOST-SUFFIX,blizzard.com,Mainland
