@@ -47,7 +47,7 @@ HOST-KEYWORD,beplay,Mainland
 
 # > Blizzard
 USER-AGENT,hearthstone*,Mainland
-#HOST,cdp.cloud.unity3d.com,Mainland
+HOST,cdp.cloud.unity3d.com,proxy
 HOST-SUFFIX,battle.net,Mainland
 HOST-SUFFIX,battlenet.com,Mainland
 HOST-SUFFIX,blizzard.com,Mainland
@@ -113,7 +113,7 @@ HOST-SUFFIX,adobesc.com,Mainland
 HOST-SUFFIX,air-matters.com,Mainland
 HOST-SUFFIX,air-matters.io,Mainland
 HOST-SUFFIX,airhotels.cn,Mainland
-#HOST-SUFFIX,akadns.net,Mainland
+HOST-SUFFIX,akadns.net,proxy
 HOST-SUFFIX,aliapp.org,Mainland
 HOST-SUFFIX,alibaba.com,Mainland
 HOST-SUFFIX,alibabacloud.com,Mainland
