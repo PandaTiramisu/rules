@@ -2,8 +2,6 @@
 USER-AGENT,Microsoft*,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
 HOST-SUFFIX,ms,Microsoft
-HOST-SUFFIX,bing.com,Microsoft
-HOST-SUFFIX,bing.net,Microsoft
 HOST-SUFFIX,hotmail.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,live.net,Microsoft
@@ -24,3 +22,9 @@ HOST-SUFFIX,windows.com,Microsoft
 HOST-SUFFIX,windows.net,Microsoft
 HOST-SUFFIX,xbox.com,Microsoft
 HOST-SUFFIX,xboxlive.com,Microsoft
+
+# > Microsoft bing
+HOST-SUFFIX,bing.com,Microsoft
+HOST-SUFFIX,bing.net,Microsoft
+HOST-SUFFIX,bingviz.com,Microsoft
+HOST-SUFFIX,bingapis.com,Microsoft
