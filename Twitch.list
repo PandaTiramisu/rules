@@ -1,0 +1,8 @@
+# > Twitch Domain List
+HOST-SUFFIX,twitch.tv,Twitch
+HOST-SUFFIX,ttvnw.net,Twitch
+HOST-SUFFIX,jtvnw.net,Twitch
+HOST-SUFFIX,twitchcdn.net,Twitch
+HOST-SUFFIX,ext-twitch.tv,Twitch
+HOST-SUFFIX,twitchstatic.net,Twitch
+HOST,d3fi1amfgojobc.cloudfront.net,Twitch
